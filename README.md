@@ -2,7 +2,7 @@
 
 Autonomous AI Agent Workflow Orchestration Platform
 
-This platform lets users give a goal to a team of AI agents, which divide the work into smaller tasks 
+This platform lets users give a goal to a team of AI agents, which divide the work into smaller tasks
 
 and work together to finish it, while users track progress and approve important actions.
 
@@ -15,9 +15,9 @@ and work together to finish it, while users track progress and approve important
 ### Prerequisites
 
 
-- Git
 
-\- A GitHub account
+* Git
+* A GitHub account
 
 
 
